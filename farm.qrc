@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/"/>
+    <qresource prefix="/assets">
+        <file>cws.sqlite</file>
+    </qresource>
+</RCC>
